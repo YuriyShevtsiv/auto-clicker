@@ -4,6 +4,7 @@
 
 ## 📌 Description
 
+<img width="309" height="248" alt="Screenshot 2026-04-11 104802" src="https://github.com/user-attachments/assets/19224b2e-279c-4ed6-80c6-282273f43e08" />
 This project is a **simple Auto Clicker application** built with **Python and Tkinter**.
 It allows the user to automatically click the mouse at a specified speed (clicks per second) using a graphical interface.
 
